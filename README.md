@@ -1,2 +1,3 @@
 # FIRST-GIT
-First repo 
+First repository. 
+created by rishabh chauhan
